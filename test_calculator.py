@@ -1,3 +1,4 @@
-from calculator import calculator
+from calculator import Calculator
 
-print(sum(10,5))
+sum = Calculator()
+print(sum(10, 5))
